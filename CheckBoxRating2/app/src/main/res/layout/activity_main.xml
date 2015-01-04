@@ -122,6 +122,7 @@
         android:onClick="btnSendResult"
         android:text="Send"/>
     -->
+
 </LinearLayout>
 
 
